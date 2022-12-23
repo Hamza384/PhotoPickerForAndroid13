@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhotoPickerAndroid13</string>
+
+    <string name="pick_single_image">Single Image Picker</string>
+    <string name="pick_multi_image">Multi Image Picker</string>
+    <string name="please_select_an_option">Please select an option</string>
+
+</resources>
